@@ -1,0 +1,6 @@
+"hello ajju"
+
+  today programs.
+1) git commands
+2) coding test at 11:30 am
+3) lets try about python
